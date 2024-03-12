@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akgupta2075" alt="akgupta2075" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amitkum55146154" target="blank"><img src="https://img.shields.io/twitter/follow/amitkum55146154?logo=twitter&style=for-the-badge" alt="amitkum55146154" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 - 🔭 I’m currently working on **Android Studio**
 
 - 🌱 I’m currently learning **Springboot, hybernate**
